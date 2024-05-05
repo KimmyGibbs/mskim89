@@ -40,6 +40,7 @@ I am a programmer that interested about `Big-data`, `AI` and `Web`.
     - [Mysql](https://www.mysql.com/ "RDMBS")
     - [Nginx](https://www.nginx.com/ "endpoint routing management")
     - [Postgresql](https://www.postgresql.org/ "RDMBS")
+    - [RabbitMQ](https://www.rabbitmq.com/ "Realtime message queue handling")
     - [Redis](https://redis.io/ "Data managing system")
     - [Robo 3T](https://robomongo.org/ "MongoDB managing tool")
     - [Sequlize](https://sequelize.org/ "RDBMS ORM of Javascript")
@@ -47,6 +48,14 @@ I am a programmer that interested about `Big-data`, `AI` and `Web`.
     - [Valut](https://www.vaultproject.io/ "Key Management System")
 
 ## Career
+### *PixelScope Inc*
+- **Period**: `10/04/2023` - `-ing`
+- **Position**: `Dataprocessing Engineer`
+- **What To Do**
+    > Sport Data Analysis
+
+    > Development Automation Sport Broadcasting algorithm
+
 ### *DDH Inc.*
 - **Period**: `09/01/2021` - `05/31/2023`
 - **Position**: `BackEnd Engineer`
